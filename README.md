@@ -4,6 +4,6 @@
 
 🏷️ 𝐼 𝑙𝑜𝑣𝑒 𝑏𝑢𝑖𝑙𝑑𝑖𝑛𝑔 𝑤𝑒𝑏 𝑎𝑝𝑝𝑠, 𝑠𝑜𝑙𝑣𝑖𝑛𝑔 𝑝𝑟𝑜𝑏𝑙𝑒𝑚𝑠, 𝑎𝑛𝑑 𝑡𝑢𝑟𝑛𝑖𝑛𝑔 𝑟𝑎𝑛𝑑𝑜𝑚 𝑖𝑑𝑒𝑎𝑠 𝑖𝑛𝑡𝑜 𝑎𝑐𝑡𝑢𝑎𝑙 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠.
 
-👽 you'll usually find me exploring Frontend Development, Full-Stack technologies, Data Science, Cybersecurity, AI, or whatever interesting rabbit hole the tech world sends me down next.
+👽 𝘺𝘰𝘶'𝘭𝘭 𝘶𝘴𝘶𝘢𝘭𝘭𝘺 𝘧𝘪𝘯𝘥 𝘮𝘦 𝘦𝘹𝘱𝘭𝘰𝘳𝘪𝘯𝘨 𝘍𝘳𝘰𝘯𝘵𝘦𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵, 𝘍𝘶𝘭𝘭-𝘚𝘵𝘢𝘤𝘬 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴, 𝘋𝘢𝘵𝘢 𝘚𝘤𝘪𝘦𝘯𝘤𝘦, 𝘊𝘺𝘣𝘦𝘳𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺, 𝘈𝘐, 𝘰𝘳 𝘸𝘩𝘢𝘵𝘦𝘷𝘦𝘳 𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵𝘪𝘯𝘨 𝘳𝘢𝘣𝘣𝘪𝘵 𝘩𝘰𝘭𝘦 𝘵𝘩𝘦 𝘵𝘦𝘤𝘩 𝘸𝘰𝘳𝘭𝘥 𝘴𝘦𝘯𝘥𝘴 𝘮𝘦 𝘥𝘰𝘸𝘯 𝘯𝘦𝘹𝘵.
 
-💫"Code with purpose. Build with impact."
+💫"ᴄᴏᴅᴇ ᴡɪᴛʜ ᴘᴜʀᴘᴏsᴇ. ʙᴜɪʟᴅ ᴡɪᴛʜ ɪᴍᴘᴀᴄᴛ."
