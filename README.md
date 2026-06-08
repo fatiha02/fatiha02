@@ -1,16 +1,14 @@
 ## Hi there 👋
+i'm sana fatiha a fullstack developer!
 
-<!--
-**fatiha02/fatiha02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 About Me
+Computer Science student passionate about transforming ideas into impactful web applications.
 
-Here are some ideas to get you started:
+• Frontend Development
+• Software Engineering
+• Problem Solving
+• JavaScript & React Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on building real-world projects, strengthening full-stack development skills, and growing as a software developer through continuous learning and hands-on experience.
+
+"Code with purpose. Build with impact."
